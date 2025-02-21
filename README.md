@@ -1,7 +1,6 @@
-Data analytics_logistic regrassion
-Logistic regression is designed for prediction, 
-with key steps including data preparation, presentation, and parameter estimation. 
-Model evaluation is performed using tools like the confusion matrix, ROC curve, and AUC.
+Data analytics and prediction using logistic regression. 
+
+Logistic regression is a widely used statistical method for binary classification, predicting the probability of an event occurring based on independent variables. It models the relationship using the logistic function, transforming linear combinations of predictors into probabilities. Parameters are estimated using Maximum Likelihood Estimation (MLE) or optimization techniques like gradient descent. To evaluate model performance, a confusion matrix is used to calculate accuracy, precision, recall, and the F1 score. The Receiver Operating Characteristic (ROC) curve plots the true positive rate against the false positive rate at various thresholds, while the Area Under the Curve (AUC) quantifies overall model discrimination, with values closer to 1 indicating better performance. Logistic regression assumes linearity in log odds, no perfect multicollinearity, and independent observations, making it a reliable yet interpretable tool for classification problems.
 ![Capture_1](https://github.com/user-attachments/assets/e75ec5a1-a179-4e57-8092-7ed36db0d1c9)
 ![Capture_3](https://github.com/user-attachments/assets/30acb888-c888-4bd4-aaf4-2fc96365497b)
 ![Capture](https://github.com/user-attachments/assets/2e02f629-f0ef-46f3-b28f-dcd8884fc295)
